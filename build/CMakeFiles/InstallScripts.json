@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Vscode/RaytracerInOneWeek/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
